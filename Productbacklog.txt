@@ -1,0 +1,9 @@
+
+1.Schedule alarm
+2.Trigger phone call at the alarm time
+3.Play DTMF(Dial Tone MultiFrequency)
+4.Read the sms received(status message)
+5.Create database(Sqlite)
+6.Filter the sms and store in the database
+7.View the status stored
+8.Permanent data backup
